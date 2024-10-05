@@ -16,6 +16,7 @@ const rawStatus = require("./json/auto/status.json")
 const version = require("./json/auto/version.json")
 
 const startTime = Date.now()
+//cambio
 
 // create client
 const client = new Discord.Client({
